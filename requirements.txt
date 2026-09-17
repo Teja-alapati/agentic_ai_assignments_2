@@ -1,0 +1,6 @@
+google-adk
+pandas
+openpyxl
+python-docx
+lxml
+python-dotenv
